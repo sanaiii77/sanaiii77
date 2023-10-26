@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanaiii77
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning vue3
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sanaiii.k77@gmail.com
 
